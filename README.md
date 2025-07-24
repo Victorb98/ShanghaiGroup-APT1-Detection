@@ -61,6 +61,7 @@ These detection rules are designed to prioritise attacker behaviour over static 
 Built for blue teamers, SOC analysts, and threat hunters.
 Powered by MITRE ATT&CK mappings.
 Focused on disrupting real-world APT activity.
+
 > 💡 This project was inspired by a hands-on lab I completed on TryHackMe. After working through a simulated APT detection challenge, I wanted to push myself further — to not just follow steps, but to understand *why* attackers do what they do, and how defenders can disrupt them at the behavioral level.  
 >  
 > This repo is the result of that challenge — a personal deep-dive into APT1 (Shanghai Group) and how to detect them through real-world tactics, tools, and patterns.
