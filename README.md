@@ -37,7 +37,7 @@ Shanghai Group — aka **APT1** or **Comment Crew** — is a Chinese state-spons
 
 ### 🔺 High-impact detection (hard to change):
 - 🧰 Tooling: Mimikatz, RATs, sideloading  
-- 🧠 Behavior: Lateral movement, PTH, DLL hijacking  
+- 🧠 Behaviour: Lateral movement, PTH, DLL hijacking  
 - 📡 C2 Patterns: Fake User-Agent strings and DNS activity  
 
 ---
@@ -57,13 +57,18 @@ We focus on **host and network behaviour** — where it hurts attackers. All rul
 | 🧠 Lateral Movement + TTPs   | Tactics, Techniques & Procedures | 🔴 High         |
 
 ✅ Final Thoughts
-These detection rules are designed to prioritise attacker behaviour over static IOCs — targeting what adversaries actually do, not just what they leave behind.
-Built for blue teamers, SOC analysts, and threat hunters.
-Powered by MITRE ATT&CK mappings.
-Focused on disrupting real-world APT activity.
 
-> 💡 This project was inspired by a hands-on lab I completed on TryHackMe. After working through a simulated APT detection challenge, I wanted to push myself further — to not just follow steps, but to understand *why* attackers do what they do, and how defenders can disrupt them at the behavioral level.  
->  
-> This repo is the result of that challenge — a personal deep-dive into APT1 (Shanghai Group) and how to detect them through real-world tactics, tools, and patterns.
+🛡️ Detection Logic & Threat Focus
+These detection rules are built to spotlight attacker behaviour, not just static IOCs — focusing on what adversaries do, rather than what they leave behind. Designed with blue teamers, SOC analysts, and threat hunters in mind, this approach emphasises real-world attack disruption.
+
+🔍 Powered by MITRE ATT&CK mappings, the rules are aligned with common TTPs (Tactics, Techniques & Procedures) used by APT groups — ensuring the detections stay relevant and threat-informed.
+
+🧠 Also, through my training on the Google Cybersecurity Certificate, I’ve developed practical skills in using tools like VirusTotal to analyse suspicious files, correlate indicators, and investigate potential threats — a skillset I actively applied in this project.
+
+ 💡 This project was inspired by a hands-on lab I completed on TryHackMe. 
+ After working through a simulated APT detection challenge, I wanted to push myself further — to not just follow steps, but to understand *why* attackers do what they do, and how defenders can disrupt them at the behavioural level.  
+
+ 
+This repo is the result of that challenge — a personal deep-dive into APT1 (Shanghai Group) and how to detect them through real-world tactics, tools, and patterns.
 <img width="1365" height="728" alt="Pyramid of pain tryhackme " src="https://github.com/user-attachments/assets/1f8dea0f-4e0b-4088-ba97-27712efc87b3" />
 
