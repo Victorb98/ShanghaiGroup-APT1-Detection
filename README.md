@@ -69,6 +69,6 @@ These detection rules are built to spotlight attacker behaviour, not just static
  After working through a simulated APT detection challenge, I wanted to push myself further, to not just follow steps, but to understand *why* attackers do what they do, and how defenders can disrupt them at the behavioural level.  
 
  
-This repository is the result of that challenge — a personal deep dive into APT1 (Shanghai Group) and how to detect it through real-world tactics, tools, and patterns.
+This repository is the result of that challenge, a personal deep dive into APT1 (Shanghai Group) and how to detect it through real-world tactics, tools, and patterns.
 <img width="1365" height="728" alt="Pyramid of pain tryhackme " src="https://github.com/user-attachments/assets/1f8dea0f-4e0b-4088-ba97-27712efc87b3" />
 
