@@ -59,9 +59,9 @@ We focus on **host and network behaviour** — where it hurts attackers. All rul
 ✅ Final Thoughts
 
 🛡️ Detection Logic & Threat Focus
-These detection rules are built to spotlight attacker behaviour, not just static IOCs — focusing on what adversaries do, rather than what they leave behind. Designed with blue teamers, SOC analysts, and threat hunters in mind, this approach emphasises real-world attack disruption.
+These detection rules are built to spotlight attacker behaviour, not just static IOCs, focusing on what adversaries do, rather than what they leave behind. Designed with blue teamers, SOC analysts, and threat hunters in mind, this approach emphasises real-world attack disruption.
 
-🔍 Powered by MITRE ATT&CK mappings, the rules are aligned with common TTPs (Tactics, Techniques & Procedures) used by APT groups — ensuring the detections stay relevant and threat-informed.
+🔍 Powered by MITRE ATT&CK mappings, the rules are aligned with common TTPs (Tactics, Techniques & Procedures) used by APT groups, ensuring the detections stay relevant and threat-informed.
 
 🧠 Also, through my training on the Google Cybersecurity Certificate, I’ve developed practical skills in using tools like VirusTotal to analyse suspicious files, correlate indicators, and investigate potential threats, a skillset I actively applied in this project.
 
