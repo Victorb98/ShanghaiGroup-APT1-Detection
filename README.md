@@ -6,7 +6,7 @@
 
 ## 🧠 Who is Shanghai Group (APT1)?
 
-Shanghai Group — aka **APT1** or **Comment Crew** — is a Chinese state-sponsored threat group known for **long-term cyber-espionage** operations. They’ve been active against:
+Shanghai Group — aka **APT1** or **Comment Crew** is a Chinese state-sponsored threat group known for **long-term cyber-espionage** operations. They’ve been active against:
 
 - 📡 Telecommunications  
 - 🛩️ Aerospace  
@@ -44,9 +44,9 @@ Shanghai Group — aka **APT1** or **Comment Crew** — is a Chinese state-spons
 
 ## 🛠️ Detection Strategy
 
-We focus on **host and network behaviour** — where it hurts attackers. All rules are mapped to MITRE ATT&CK for real-world detection.
+We focus on **host and network behaviour** where it hurts attackers. All rules are mapped to MITRE ATT&CK for real-world detection.
 
----## 🎯 Pyramid of Pain Mapping
+ 🎯 Pyramid of Pain Mapping
 
 | 🧩 **Detection Type**           | 🏗️ **Pyramid Level**       | 💥 **Pain to Attacker** |
 |-------------------------------|----------------------------|--------------------------|
