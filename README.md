@@ -6,7 +6,7 @@
 
 ## 🧠 Who is Shanghai Group (APT1)?
 
-Shanghai Group — aka **APT1** or **Comment Crew** is a Chinese state-sponsored threat group known for **long-term cyber-espionage** operations. They’ve been active against:
+Shanghai Group, aka **APT1** or **Comment Crew** is a Chinese state-sponsored threat group known for **long-term cyber-espionage** operations. They’ve been active against:
 
 - 📡 Telecommunications  
 - 🛩️ Aerospace  
